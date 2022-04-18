@@ -1,0 +1,46 @@
+nav {
+    background-color:rgb(0, 0, 0);
+    background-position:relative;
+    background-size:auto;
+    padding-bottom:.6in;
+    font-size:xx-large;
+    font-style:bold;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif}
+
+.background {background-color: rgb(0, 0, 0)
+    }
+
+.mainbackground { position: relative;
+    margin-bottom: 3rem;
+    padding-top: calc(20rem + 57px);
+    padding-bottom: 8rem;
+    background: no-repeat center center;
+    background-color: #6c757d;
+    background-size: cover;
+    background-attachment: scroll;
+                }
+.navtleft {
+        position:fixed;
+        top:5px;
+        margin-left:10px;
+        
+             }
+
+.navright {
+            position: fixed;
+            top: 5px;
+            right:10px;
+}
+.navtext {color:rgb(255, 255, 255);
+        
+            }
+
+body {background-color:gray}
+
+.headertitle {color:white;
+            position:fixed
+            }
+
+.font1 {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color:white
+    }
